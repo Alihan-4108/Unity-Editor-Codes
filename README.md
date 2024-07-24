@@ -1,5 +1,5 @@
 # Unity-Editor-Codes
-4 pieces Basic-level editor codes. 
+3 pieces Basic-level editor codes. 
 
 1. Editor code to clone an object.
 2. Editor code to create a file.
